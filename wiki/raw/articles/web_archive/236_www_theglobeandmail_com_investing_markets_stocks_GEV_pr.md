@@ -1,0 +1,44 @@
+---
+title: "AI Data Centers Need Power, and These 2 Industrials Are Cashing In - The Globe and Mail"
+subtitle: "Category: Spin-Off Industries & Employment | Evidence ID: #236"
+date: "Archived: 2026-10-04 20:23"
+---
+
+* **Original URL:** <https://www.theglobeandmail.com/investing/markets/stocks/GEV/pressreleases/3385893/ai-data-centers-need-power-and-these-2-industrials-are-cashing-in/>
+* **Research Category:** Spin-Off Industries & Employment
+* **Archival File:** `236_www_theglobeandmail_com_investing_markets_stocks_GEV_pr.pdf`
+* **Extraction Status:** Full Web Transcript PDF
+
+---
+
+# Source Content
+
+AI Data Centers Need Power, and These 2 Industrials Are Cashing In
+Artificial intelligence deployment is no longer constrained by semiconductor sector supply. The definitive bottleneck is raw electrical capacity. Over the past two years, Silicon Valley has dedicated significant capital to hoarding advanced processors and expanding data center footprints. Those computing clusters remain entirely dependent on a physical constraint that cannot be innovated away with software. They need electricity.
+As hyperscalers bypass traditional utility grids to secure proprietary energy, institutional capital is flowing directly into legacy industrial and electrical equipment manufacturers. Investors are actively rotating out of highly valued software pure-plays and into the physical power components required to keep server farms online. This rotation is driven by strong earnings visibility, multi-year backlogs, and an unprecedented shift in pricing power from buyers to manufacturers.
+Shorting the Grid: America's Energy Overhaul
+The United States power grid is facing a demand shock unseen in modern industrial history. The Electric Power Research Institute recently revised its macro projections, estimating that data centers will consume up to 17% of total U.S. electricity by 2030. This creates an immediate need for baseload power additions before the end of the decade.
+For tech conglomerates operating on aggressive deployment schedules, traditional grid infrastructure is too slow. Multi-year utility interconnection queues, bogged down by regulatory approvals and aging infrastructure, are forcing data center operators to abandon standard grid hookups. Hyperscalers are pivoting toward behind-the-meter solutions. By co-locating natural gas generation facilities and modular power enclosures directly adjacent to their server farms, operators bypass the public grid entirely.
+This structural shift requires immense physical hardware. Transformers, switchgear, liquid-cooling systems, and heavy-duty gas turbines are now the critical path to the scalability of artificial intelligence (AI).
+The Backlog Boom: 100 Gigawatts and Counting
+When demand fundamentally outstrips manufacturing capacity, suppliers dictate the terms. We are seeing this dynamic play out aggressively across the primary generation and downstream distribution markets. Equipment manufacturers now command a strict seller's market, fundamentally altering their revenue visibility and margin profiles.
+In the primary generation space, GE Vernova (NYSE: GEV) provides a clear window into this demand curve. GE Vernova recently amassed a 100-gigawatt gas-turbine backlog, effectively selling out production capacity through 2030. Because hyperscalers are desperate to secure delivery slots, pricing leverage has shifted completely to the manufacturer. Market estimates project GE Vernova's turbine pricing will rise to $600 per kilowatt by 2027, a 200% increase from 2019 levels.
+GE Vernova is capitalizing on the behind-the-meter trend directly. A recent joint venture with Chevron (NYSE: CVX) aims to deliver 4 gigawatts of co-located gas plant power by 2027, allowing data center operators to dodge utility bottlenecks completely.
+Downstream electrical distribution tells the same story. Eaton (NYSE: ETN), a leader in power management, saw data center orders spike 200% in late 2025. That localized surge catalyzed a 48% year-over-year increase in the company's electrical sector backlog, pushing committed orders to a record $19.6 billion by early 2026. This data effectively proves the core thesis. Tech sector capital expenditures are translating directly into legacy industrial revenue.
+Margin Compression in the Machine
+While the revenue visibility is exceptional, investors understand that scaling heavy manufacturing is highly capital-intensive. Companies capturing this AI infrastructure wave are simultaneously undergoing significant internal restructuring to meet the moment.
+Eaton is actively transitioning its portfolio to become a pure-play on electrification. The company is preparing to spin off its cyclical $3 billion Mobility unit in Q1 2027, shedding legacy automotive sector exposure to focus entirely on the grid-to-chip transition. The $9.5 billion acquisition of Boyd Thermal strategically positions Eaton to dominate high-margin liquid cooling, a non-negotiable requirement for next-generation, high-density AI clusters.
+Growth comes with immediate costs. Eaton is currently navigating a 180-basis-point margin compression within its core Electrical Americas segment. This compression is a direct result of the heavy cash burn required to rapidly scale factory capacity and liquidate a historic backlog. Understanding this dynamic is crucial. The long-term margin expansion narrative is currently masked by the short-term capital expenditures required to build the factories.
+Grounding the Hype: Pricing in the Supercycle
+The market is heavily discounting this multi-year growth cycle, and valuations reflect that optimism. GE Vernova has climbed roughly 62% year to date, trading at a trailing price-to-earnings ratio of 30.8. Eaton maintains elevated momentum near 52-week highs, registering about a 26% advance since January with a trailing multiple of around 39.1.
+These are priced-for-perfection multiples for legacy industrial companies. The primary execution risk is the macro dependency on hyperscaler capital expenditures. Current forward valuations assume uninterrupted, aggressive infrastructure spending by the world's largest tech conglomerates. Any macro-driven deceleration in tech spending would immediately jeopardize the multi-year revenue visibility that currently supports these elevated multiples.
+Manufacturers must also flawlessly execute their capacity expansions. Supply chain bottlenecks for raw materials like copper and electrical steel could delay order fulfillment, pushing revenue recognition further down the timeline and frustrating investors anticipating immediate quarterly beats.
+The Connection: Aligning Capital With the Grid
+The physical limits of the American power grid ultimately bind the buildout of artificial intelligence. As investment capital rapidly flows away from software and into physical infrastructure, industrial equipment manufacturers are emerging as the durable, secondary wave of the AI boom.
+While the fundamental tailwinds are undeniably strong, current valuations require strict execution from management teams transitioning their manufacturing bases. Investors tracking this structural overhaul may want to monitor upcoming earnings reports for progress on margin recovery and factory scaling. Those seeking exposure to the electrification supercycle might prefer to wait for broader market pullbacks before taking a position in these critical infrastructure providers.
+Where Should You Invest $1,000 Right Now?
+Before you make your next trade, you'll want to hear this.
+MarketBeat keeps track of Wall Street's top-rated and best performing research analysts and the stocks they recommend to their clients on a daily basis.
+Our team has identified the five stocks that top analysts are quietly whispering to their clients to buy now before the broader market catches on... and none of the big name stocks were on the list.
+They believe these five stocks are the five best companies for investors to buy now...
+The article "AI Data Centers Need Power, and These 2 Industrials Are Cashing In" first appeared on MarketBeat.

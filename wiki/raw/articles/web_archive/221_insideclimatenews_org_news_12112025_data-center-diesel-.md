@@ -1,0 +1,60 @@
+---
+title: "Data Centers’ Use of Diesel Generators for Backup Power Is Commonplace—and Problematic - Inside Climate News"
+subtitle: "Category: Diesel Generators & Fuel Spills Near Water | Evidence ID: #221"
+date: "Archived: 2026-10-04 20:20"
+---
+
+* **Original URL:** <https://insideclimatenews.org/news/12112025/data-center-diesel-generators-noise-pollution/>
+* **Research Category:** Diesel Generators & Fuel Spills Near Water
+* **Archival File:** `221_insideclimatenews_org_news_12112025_data-center-diesel-.pdf`
+* **Extraction Status:** Full Web Transcript PDF
+
+---
+
+# Source Content
+
+“Five nines.”
+In the world of data centers, ensuring a facility will be online 99.999 percent of the time, is everything. Access to power is the number one priority when developers are trying to figure out where to build the warehouses storing supercomputers that in recent years have grown beyond what was previously imaginable.
+In order to ensure five nines, data center developers secure power in various ways: They’ll seek to connect to the grid, build out or buy their own behind-the-meter power supply—typically in the form of gas-fired generation—and lastly, host multiple backup generators on site.
+These generators commonly run on diesel. The refined crude oil has become the industry standard to ensure around-the-clock access to power as developers in Texas await a new state regulation that empowers the Electric Reliability Council of Texas (ERCOT), the state’s grid operators, to disconnect large power users like data centers at times of peak demand. Backup generators have also become vital to developers as slow supply chains delay onsite gas turbine installations.
+The preferred backup power source for data centers are big air polluters, which environmentalists and industry experts say could be highly problematic unless clear rules are established and enforced for limiting diesel generator use.
+While these backup generators are meant to be used rarely outside of maintenance testing, there is concern that as ERCOT employs its new powers to force data centers off the grid in times of peak demand, the diesel generators will run more frequently.
+Diesel generators are rife with environmental issues. They are expensive to run and face limits from federal, state and local regulators on noise and air pollution. Diesel emits harmful pollutants that the American Cancer Society links to heart and lung disease and cancer.
+Yet despite such obvious health impacts, those operating diesel generators are typically only required to self-report emissions to the Texas Commission on Environmental Quality (TCEQ) and the Environmental Protection Agency (EPA). The EPA may issue compliance inspections and facility evaluations to ensure that projects are abiding by the rules for regulated pollutants.
+Diesel generators used as backup power in Texas are most commonly permitted by the TCEQ, as long as the hours they run don’t exceed 10 percent of the annual operations of the primary power source. TCEQ grants those operating diesel generators either a standard permit or a case-by-case new source review permit.
+With some data center developers looking to build single projects that consume more electric power than cities, there’s concern that the self-reported emissions from diesel generators used to provide backup power will exceed limits under the Clean Air Act.
+Federally, there are no time limits on the use of these diesel generators during emergencies. The EPA sees emergencies as situations resulting from sudden and reasonably unforeseeable events, like a grid power failure, gas plants unexpectedly shutting off or natural disasters. Under such circumstances, the operator of the generator is responsible for logging the emergency and reporting which steps were taken to mitigate emissions.
+But for non-emergencies, like machine testing, diesel generators are federally limited to 100 hours. Fifty of those 100 hours can be used for demand response programs—grid or transmission operators paying large load users like data centers to switch to backup generators to reduce stress on the grid.
+This comes as Texas’ largest metropolitan areas—Houston-Galveston-Brazoria, Dallas-Fort Worth, El Paso and San Antonio— already violate air quality standards, according to the EPA.
+There are companies in gas-rich Texas promoting a switch to portable natural gas generators, which burn cheaper fuel that is better suited for long-term use with less air pollution. One gas generator company, Generac, said in a white paper that its gas generators emit 95 percent less nitrogen oxides, a significant contributor to smog and acid rain; 98 percent less non-methane hydrocarbons and 59 percent less carbon monoxide. But natural gas, unlike diesel fuel, can’t be stored on site.
+Because diesel can be stored on site and is readily available, it has become the preferred energy source for most backup or emergency generators, said Brandon Seale, a longtime gas executive and former president of West Texas Gas, recently rebranded as WTG Energy.
+“You can find it in a bunch of different places,” Seale said to a crowd at a data center conference in October. “And so people like that.”
+Diesel generators are regularly used in mining, agriculture and energy. Given data centers’ exceptionally large electricity demands and 24-hour use times, projects are sited with numerous large diesel generators.
+While data centers already use all sources of redundancy in order to maintain their reliability, as more grid operators around the country like ERCOT trend toward curtailing data centers at times of peak demand, the facilities will likely need even more backup systems, said Nathalie Limandibhratha, BloombergNEF’s U.S. power analyst.
+There isn’t a consensus on how many hours of backup power a data center needs, Limandibhratha said. But given the shifting rules regarding large loads in ERCOT, some business leaders are considering having 50 to 100 hours of backup generation onsite, she said.
+Diesel generators are the cheapest way for data centers to meet shifting industry standards for on-site backup with on-site fuel supply, said Chris Miller, president of The Piedmont Environmental Council, a Virginia-based nonprofit that has been tracking the environmental impacts of the data center industry across Virginia, home to the largest concentration of data centers in the world. But these generators also produce the most toxic air pollution.
+In any other industry use, generating as much power from diesel as is required by data centers in any metropolitan area in the U.S. would trigger Clean Air Act violations, he said. However, by using emergency permitting, the pollution is allowed, Miller said.
+“Diesel combustion is one of the dirtiest forms of generation we know,” Miller said. “It’s only supposed to be for emergency use.”
+But conversations happening at both the federal and state levels consider allowing waivers from the Clean Air Act for an expanded range of grid scenarios, he said. His concern is that while grid and data center operators try to solve for grid reliability by curtailing and using backup power, air quality impacts are not being considered.
+This story is funded by readers like you.
+Our nonprofit newsroom provides award-winning climate coverage free of charge and advertising. We rely on donations from readers like you to keep going. Please donate now to support our work.
+Donate Now
+His fear is that the default will become using these diesel generators for longer and longer periods of time.
+The public debate about such issues is new for the data center industry, which hasn’t been accustomed to such scrutiny. For years, the industry operated in relative secrecy, building big warehouses to support everyday internet functions like Gmail, iCloud and Amazon Prime.
+But as the industry transforms grids across the country and drives electricity demand to record levels, it finds itself at the center of a storm of protest in communities nationwide. Residents across the country are becoming increasingly concerned about rising power costs, pollution, zoning and water usage related to data centers, many of which are massive in size.
+As Texas follows in the footsteps of Virginia’s so-called “Data Center Alley,” building out huge amounts of infrastructure and incorporating these large loads onto its grid, Miller warns about the looming consequences of allowing the industry to steam ahead before rules are settled.
+In attempts to get online faster as interconnection queues grow, Miller said some data centers are getting permits for a power generation unit they claim is temporary and will be used as backup power once they’re connected to the grid, but end up using it as the primary power source as they wait to get on the grid.
+“We’re starting to see specific proposals that say, ‘Well, don’t worry about the air quality effects. We’re just trying to come online in a timely fashion,’’’ Miller said. “But what they’re really saying is, ‘We want to operate outside the rules.’”
+Some big tech companies say they are looking to reduce their growing emissions while trying to stay competitive in the race to develop artificial intelligence. While Microsoft’s emissions grew by nearly 25 percent from fiscal years 2020 to 2024, the company has committed to becoming carbon negative by 2030. To get there, Microsoft says it plans to phase out the use of petroleum-based diesel generators as a backup power for its data centers by 2030, partly by adopting “renewable diesel variations” and procuring hydrogenated vegetable oils to reduce their emissions.
+An alternative future to diesel generators could include diversifying backup power options to include battery storage, renewables, natural gas or cleaner diesel products, Duke University’s Nicholas Institute for Energy, Environment & Sustainability concluded in a February report.
+Dennis Wamsted, an energy analyst at the nonprofit Institute for Energy Economics and Financial Analysis, warned against the widespread use of diesel generators. “On a 30,000-foot level, it’s a terrible idea,” Wamsted said. “They’re noisy, they have to be tested all the time if they aren’t running. They are not very friendly, if you will.”
+The local air pollution undoubtedly will lead to issues, he said.
+Wamsted said that large-scale battery storage has great potential in this application and could be used even in combination with diesel generators to lower a site’s overall environmental and noise pollution, as well as running costs.
+“Maybe you can’t do it all with battery storage, but you also don’t need to just rely on diesel generators,” Wamsted said.
+About This Story
+Perhaps you noticed: This story, like all the news we publish, is free to read. That’s because Inside Climate News is a 501c3 nonprofit organization. We do not charge a subscription fee, lock our news behind a paywall, or clutter our website with ads. We make our news on climate and the environment freely available to you and anyone who wants it.
+That’s not all. We also share our news for free with scores of other media organizations around the country. Many of them can’t afford to do environmental journalism of their own. We’ve built bureaus from coast to coast to report local stories, collaborate with local newsrooms and co-publish articles so that this vital work is shared as widely as possible.
+Two of us launched ICN in 2007. Six years later we earned a Pulitzer Prize for National Reporting, and now we run the oldest and largest dedicated climate newsroom in the nation. We tell the story in all its complexity. We hold polluters accountable. We expose environmental injustice. We debunk misinformation. We scrutinize solutions and inspire action.
+Donations from readers like you fund every aspect of what we do. If you don’t already, will you support our ongoing work, our reporting on the biggest crisis facing our planet, and help us reach even more readers in more places?
+Please take a moment to make a tax-deductible donation. Every one of them makes a difference.
+Thank you,

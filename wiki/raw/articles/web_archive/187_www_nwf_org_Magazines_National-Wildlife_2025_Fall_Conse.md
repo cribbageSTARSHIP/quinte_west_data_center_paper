@@ -1,0 +1,40 @@
+---
+title: "More data centers, more environmental problems?"
+subtitle: "Category: Environmental, Water Table, Heat & Wildlife Impacts | Evidence ID: #187"
+date: "Archived: 2026-10-04 20:19"
+---
+
+* **Original URL:** <https://www.nwf.org/Magazines/National-Wildlife/2025/Fall/Conservation/AI-Data-Centers>
+* **Research Category:** Environmental, Water Table, Heat & Wildlife Impacts
+* **Archival File:** `187_www_nwf_org_Magazines_National-Wildlife_2025_Fall_Conse.pdf`
+* **Extraction Status:** Full Web Transcript PDF
+
+---
+
+# Source Content
+
+As AI’s reach grows, the need for data centers multiplies. So, too, could the ecological impacts without hands-on mitigation.
+GOOGLE’S DOLPHINGEMMA aims to interpret wild dolphins’ vocalizations. Microsoft’s Project Guacamaya seeks to monitor deforestation and preserve biodiversity in the Amazon rainforest. Across the globe, scientists are collaborating with technology companies to deploy artificial intelligence that studies wildlife and the environment, among multifold other applications across all kinds of industries.
+But as the use of AI proliferates, environmental policy analysts, academic researchers and others are raising concerns about the impacts the data centers powering the technology are having on communities, ecosystems and the climate. Among those concerns are the immense energy and water resources the centers require and the air, light, noise and other pollution they generate. Recent reporting and research have pointed out some of the dangers, from diminished water supplies in regions already facing shortages to potential health risks from air pollutants.
+By 2030, data centers’ global electricity use is estimated to more than double to 945 terawatt-hours, a little more than Japan’s total electricity consumption in 2024, according to a report published in April by the International Energy Agency. The report points to AI as a key driver behind the anticipated increase and projects that the United States will use the largest share. As of now, the United States is home to the greatest number of data centers in the world, according to Cloudscene, a telecommunications company.
+“The surge in data centers, and their projected increase in electricity demand, are already contributing to slowing down the transition to clean energy, in particular in states where they have high concentrations of data centers,” says Quentin Good, policy analyst at the Frontier Group, a research and policy organization. Virginia currently hosts the most data center facilities in the United States.
+Data centers’ energy demands have driven some utilities to delay shuttering fossil fuel power plants and have prompted proposals to revive retired plants, Good and his co-authors wrote in a report released in January 2025 by the Frontier Group, Environment America Research & Policy Center and the U.S. PIRG Education Fund. The report cited one estimate showing that a single data center could guzzle up to 5 million gallons of water per day—roughly equivalent to the daily use of a town with 50,000 residents, according to an analysis by The Washington Post.
+A December 2024 preprint of a study from researchers at the University of California, Riverside, and California Institute of Technology outlined the toll of AI-related air pollution. “AI contributes substantially to air quality degradation and public health costs through the emission of various criteria air pollutants,” the authors wrote.
+Other forms of pollution, such as light and noise, also could be problematic. Neil Carter, an associate professor at the University of Michigan’s School for Environment and Sustainability, has studied the links between sensory pollution and conservation. While he hasn’t researched AI data centers’ impact on wildlife specifically, he says AI data centers potentially could be “sensory danger zones.”
+“Sensory danger zones are basically where we have reason to believe that the amount of light and the amount of noise is exceeding thresholds by which you can imagine there being a fitness consequence for species,” Carter says. “And they may not be able to carry out the necessary functions that they normally would.” Research by Carter and his colleagues has explored how light pollution, for example, could disrupt the dynamics between predator and prey species, such as cougars and mule deer. Their research also has looked into how anthropogenic sounds could affect reproduction in birds including the northern cardinal, oak titmouse and barn swallow.
+To address some of these issues, experts recommend adopting sustainable strategies when building and operating AI data centers and when using AI. The decisions “we make today will be having an impact on the public health for many years to come, due to the long life span for data center projects,” says Shaolei Ren, associate professor of electrical and computer engineering at the University of California, Riverside, and an author of the air pollution study.
+Ren calls for “health-informed AI” that factors in health costs—not only carbon emissions—when deciding where a data center should be located. For example, the human health impacts of situating a data center in densely populated New York City would be much higher than an uninhabited desert, even if carbon emissions are comparable, according to Ren. Any location, however, could pose problems for wildlife and the local ecosystem.
+Some experts are seeking to lower data centers’ overall water and energy use. “I like to think of a data center almost like how you would think about your house,” says Vijay Gadepally of his work at MIT’s Lincoln Laboratory Supercomputing Center. One strategy for reducing energy consumption is to upgrade older hardware to newer, more energy-efficient platforms, he says. Another is to work with lower precision computing—using 4 or 8 bits instead of 16 or 32 bits—which can have huge energy advantages, according to Gadepally. He and his colleagues also have implemented “power capping,” or setting limits on the power of the hardware so it uses less energy over time.
+“Now, to be clear, an academic supercomputer is a little bit different in terms of the way people interact with it than a commercial system,” he says. “But we were able to show, for example, that you can reduce, on a consistent basis, almost 15 percent energy consumption and run our processors even cooler.”
+In order to implement and evaluate solutions, it’s necessary to get accurate data on how much energy the AI data centers—and the tech companies using them—are consuming. That information can be hard to come by. As co-founder of the nonprofit Climate Change AI, Priya Donti works on the responsible use of AI. While some data center operators might collect information on the energy usage of specific AI models, those data aren’t always publicly auditable, according to Donti.
+“The bigger thing is we need transparency,” she says. “But we also need action.”
+Ambika Kandasamy is a freelance journalist.
+Artificial Intelligence Is Watching Wildlife »
+How Light Pollution Impacts Wildlife & How You Can Help »
+A new storymap connects the dots between extreme weather and climate change and illustrates the harm these disasters inflict on communities and wildlife.
+Learn More
+Take the Clean Earth Challenge and help make the planet a happier, healthier place.
+Learn More
+Get a list of highly impactful plants that are native to your area based on your zip code!
+Check It Out
+More than one-third of U.S. fish and wildlife species are at risk of extinction in the coming decades. We're on the ground in seven regions across the country, collaborating with 52 state and territory affiliates to reverse the crisis and ensure wildlife thrive.

@@ -1,0 +1,8 @@
+# Targeted Research Ledger: s4_acoustics_dbc_property_bees.md
+
+## [Source: Wikipedia Reference - A-weighting | https://en.wikipedia.org/wiki/A-weighting]
+
+A-weighting is a form of frequency weighting and the most commonly used of a family of curves defined in the International standard IEC 61672:2003 and various national standards relating to the measurement of sound pressure level. A-weighting is applied to instrument-measured sound levels in an effort to account for the relative loudness perceived by the human ear, as the ear is less sensitive to low audio frequencies. It is employed by arithmetically adding a table of values, listed by octave or third-octave bands, to the measured sound pressure levels in decibel (dB). The resulting octave band measurements are usually added to provide a single A-weighted value describing the sound; the units are written as dB(A). Other weighting sets of values – B, C, D and now Z – are discussed below.
+
+---
+

@@ -1,0 +1,67 @@
+---
+title: "The Arctic is becoming a hot spot for data centers - ArcticToday"
+subtitle: "Category: Environmental, Water Table, Heat & Wildlife Impacts | Evidence ID: #192"
+date: "Archived: 2026-10-04 20:19"
+---
+
+* **Original URL:** <https://www.arctictoday.com/the-arctic-is-becoming-a-hot-spot-for-data-centers/>
+* **Research Category:** Environmental, Water Table, Heat & Wildlife Impacts
+* **Archival File:** `192_www_arctictoday_com_the-arctic-is-becoming-a-hot-spot-f.pdf`
+* **Extraction Status:** Full Web Transcript PDF
+
+---
+
+# Source Content
+
+The Arctic is becoming a hot spot for data centers
+Modern society increasingly depends on digital technologies that keep banks, transportation, and even your nightly TV streaming running. As demand for online services continues to soar, companies are racing to the Arctic to build data centers. Why do they need them there? What risks does the digital infrastructure boom pose to the region? And why are Russian data centers becoming more dependent on the state? We break down the key questions.
+1. What is a data center and why has it become the heart of the digital economy?
+A data center is a facility that houses equipment for storing, processing, and transmitting digital information. Data centers (or DCs) support both critical infrastructure — like healthcare, energy, and transportation — and everyday digital services, from streaming platforms and gaming to social media.
+Every time you make an online purchase, send a photo in a chat, or book a doctor’s appointment through an app, a data center somewhere is processing that request.
+In the past, most organizations stored their data locally — think of a backroom filled with servers and a noisy air conditioner. But as digital demand grew, specialized off-site facilities became more attractive thanks to lower costs and greater security. Smaller businesses typically rent capacity from hosting providers that operate their own data centers, while major players like Amazon and Google build their own.
+Recent years have seen an explosive growth in data centers, driven by data-hungry technologies such as artificial intelligence, 5G, and the Internet of Things. According to McKinsey & Company, demand for data centers could triple by 2030. Up to 70% of this growth will come from hyperscalers — the biggest companies offering cloud storage and computing services. In early 2025, The Economist noted that demand for such services is far outpacing supply, meaning the boom is far from over.
+2. What environmental problems do data centers create?
+Data centers are massive energy consumers. Their servers process enormous volumes of information and generate significant heat, requiring constant cooling to avoid breakdowns. Cooling alone accounts for 30–55% of a data center’s total electricity use — and with global temperatures rising, this task is becoming more difficult and costly. Some centers even faced blackouts during extreme heatwaves.
+A single large data center operated by Amazon, Microsoft, or Google can consume as much electricity as 80,000 households. Compared with a typical office building, a data center uses 10 to 50 times more energy per square foot. In 2024, data centers consumed about 1.5% of global electricity, with the largest shares in the U.S. (45%), China (25%), and Europe (15%).
+Experts expect global demand for data-center electricity to continue growing, reaching 130 GW by 2028 — nearly half the total installed capacity of all Russian power plants. While traditional cloud and transaction services still dominate, AI workloads are rising fast. Schneider Electric estimates that AI services’ share of data-center power use will rise from 8% in 2023 to 15–20% by 2028.
+Given that 73% of global greenhouse gas emissions come from the energy sector, this creates serious climate challenges. Today, data centers produce around 180 million tons of CO₂ annually — roughly one-fifth of Russia’s total emissions — and the International Energy Agency warns that figure could nearly triple by 2035.
+Electronic waste is another environmental issue: a typical server must be replaced every 1–5 years, and backup batteries about every 10 years. Research shows that recycling capacity isn’t keeping up — in the EU, only about a third of e-waste is reused while the rest is shipped abroad or sent to landfills. Without a shift to circular economy principles — including smarter, more recyclable design — the problem will only worsen.
+3. Where do data centers cluster?
+Data centers exist almost everywhere, but the clear leader is the U.S., home to nearly 5,400 facilities. By contrast, Russia has 251. In total, the research firm Omdia counts 11,000 data centers worldwide, consuming roughly 55 GW of power and covering an area larger than 4,500 football fields. The International Energy Agency notes that data centers around the world have reached a combined capacity of 114 GW in 2025.
+4. How many data centers are there in the Arctic?
+As of September 2025, Arctida estimates that at least 32 data centers are operating in the Arctic, located across every Arctic country except Canada. Their combined capacity is about 870 MW — less than 1% of global capacity.
+Russia’s Arctic hosts seven of them, with a total capacity comparable to those in Alaska and northern Finland and Sweden, but about three times smaller than Iceland’s.
+The largest Arctic data center belongs to Icelandic company Verne Global, consuming 140 MW — enough to power roughly 140,000 households. Hyperscalers are also moving north: Meta operates a data center in Luleå, Swedish Lapland, as part of its net-zero strategy, and Google has invested $28.5 million in land purchases in Finland for future facilities.
+Operational Data Centers in the Arctic
+Last updated in September 2025
+5. Why are companies heading to the Arctic?
+Building data centers in northern regions with access to clean energy helps companies cut their carbon footprint, market themselves as “greener,” and reduce operating costs thanks to the cold climate.
+- Low ambient temperatures enable free cooling — using naturally cold air or water instead of energy-intensive chillers. Even southern Finland offers about 8,000 hours of free cooling per year, with more in the Arctic zone.Some Finnish data centers also use sea water or river water for cooling. Free cooling reduces power consumption — and with it, both costs and greenhouse gas emissions.
+- Northern countries also offer low-carbon energy from hydropower, solar, and — in Iceland’s case — geothermal sources. And in Russia’s Arctic a large data center in the town of Nadvoitsy, Karelia, is powered by a hydroelectric plant.Scandinavian nations stand out for their clean electricity: in Finland, Iceland, and northern Sweden and Norway, the carbon intensity of power (CO₂ emitted per unit of energy) is 4–13 times lower than in California, and 7–23 times lower than in Russia.Greenland and Canada’s Northwest Territories show moderate figures, while in Alaska (U.S.) and Nunavut (Canada) data center emissions are expected to be higher than in Russia.The difference comes down to the sources of energy used: in Russia, natural (fossil) gas — a fossil fuel that produces fewer emissions than imported diesel — is the most common power source. However, fossil gas falls far short of renewable energy in terms of sustainability: solar power plants generate roughly 10 to 18 times fewer greenhouse gas emissions than gas-fired ones.
+6. How else are companies reducing their Arctic data centers’ carbon footprint?
+Some firms are repurposing the excess heat produced by their servers for community use. For instance, Hyperco plans to feed waste heat from its future data center in northern Finland into the district heating system. Other ideas include warming a public pool in Norway’s Nordland province or using the heat to grow microgreens in Iceland.
+Others are adopting green building techniques: Sweden’s EcoDataCenter uses green roofs and solar panels — the former to lower indoor temperatures and reduce cooling needs, and the latter to supply renewable energy.
+7. Can data centers harm the Arctic environment?
+Any human activity leaves an environmental footprint. Even a highly efficient, renewably powered data center still consumes energy and emits some greenhouse gases.
+If powered by coal — the dirtiest fossil fuel — it would significantly increase emissions of both CO₂ and black carbon, accelerating Arctic ice melt.
+For this reason, digital users are encouraged to reduce their own carbon footprint — for example, by regularly emptying email trash folders or keeping video off during online meetings unless necessary.
+Data centers and related infrastructure — such as fiber-optic cables and roads — can also disturb pristine tundra ecosystems through noise and light pollution. This can frighten wildlife, disrupt migration routes, and affect the traditional livelihoods of Indigenous peoples. So it’s preferable to build such facilities in already developed areas — near existing industrial zones, ports, or power lines — and to involve local communities in planning, including options for reusing waste heat.
+8. Are Russian data centers going green too?
+Unlike Western companies, for which environmental factors play a major role in site and technology selection, Russian projects rarely emphasize sustainability. While the Arctic climate is often cited as a technical advantage, the environmental impact of these facilities on the region is seldom discussed. Moreover, Russian authorities have not ruled out using excess fossil gas from extraction fields to power data centers.
+9. What are the prospects for Russian Arctic data centers?
+Despite its potential, the Russian Arctic remains largely inaccessible to large-scale data infrastructure due to technological lag, underdeveloped logistics, and limited opportunities for private investment.
+Federal and regional governments are trying to attract IT businesses to the Arctic through tax incentives. Data center operators in Murmansk and Karelia already hold resident status in Russia’s Arctic Zone. In 2024, officials in the Komi Republic announced plans to invest 35 billion rubles in 15 new data centers, though none have yet been commissioned.
+Currently, experts estimate that Arctic Russia hosts data centers with a total capacity of about 117 MW — roughly 14% of the national total — with plans to double that. But investment figures are volatile: Rosatom’s planned “Arktika” data center, for example, was initially budgeted at 1.4 billion rubles, but later reports halved that estimate. This reflects deep uncertainty in achieving businesses’ Arctic ambitions.
+The government is increasingly using administrative measures to stabilize and regulate the market, aiming to retain control over core infrastructure.
+While major players like Rostelecom and Rosatom currently dominate, smaller firms still exist — though their prospects are limited.While large corporations already have power and industrial infrastructure in the Arctic that data centers can tap into, smaller companies face hurdles. They could try to invest on their own, but with the current central bank rate, doing so in the Arctic is no easy task. Another option is to seek support from the government or larger corporations. In Karelia, for example, a former Rusal plant is being repurposed to host data centers.
+Over time, the share of small private players is likely to shrink, replaced by state-backed facilities.
+This ensures government control over citizen, business, and state data — but not necessarily the fulfillment of ambitious development promises. As past experience of major state corporations and regional authorities shows, political will and big announcements don’t always translate into results.
+10. Why are Russian data centers becoming more dependent on the state?
+In Russia, developing data centers isn’t just business — it’s a matter of technological sovereignty. As artificial intelligence becomes a field of global competition, state-controlled data infrastructure is seen as essential for staying in the race.
+Unsurprisingly, experts agree that the government plays a central role in shaping this market. Back in 2020, Vladimir Putin called for preferential electricity access for data centers. Yet at the time, Russian law didn’t even define what a data center was — or whether crypto-mining farms counted as one.
+After several years of debate, law amendments were finally passed in July 2025, providing a legal definition of a data center.
+These changes cement the government’s growing role: the Ministry of Digital Development will maintain a national registry of approved facilities — excluding crypto-mining farms, which will not qualify for subsidies or discounted electricity rates.
+Criteria for inclusion are still being drafted, and the registry is expected to go live in spring 2026, when the amendments take effect. How the market will respond remains unclear — opinions are divided, and many private operators view the state’s expanding role with apprehension.
+Arctida is a non-profit organization that promotes transparency and sustainable development in the Arctic region. Arctida also investigates topics such as climate financing, Arctic management principles, and the rights of indigenous peoples.
+Mariya Ivanova is Arctida’s climate and energy transition analyst.
+Nail Farkhatdinov is coordinator of the analytical department at Arctida.

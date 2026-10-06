@@ -1,0 +1,34 @@
+---
+title: "Trenton Water Distribution System Improvements | Get Involved Quinte West"
+subtitle: "Category: Quinte West Data Centers, Water & Ecology | Evidence ID: #141"
+date: "Archived: 2026-10-04 20:17"
+---
+
+* **Original URL:** <https://getinvolved.quintewest.ca/trenton-water-distribution-system-improvements>
+* **Research Category:** Quinte West Data Centers, Water & Ecology
+* **Archival File:** `141_getinvolved_quintewest_ca_trenton-water-distribution-sy.pdf`
+* **Extraction Status:** Full Web Transcript PDF
+
+---
+
+# Source Content
+
+Trenton Water Distribution System Improvements
+A new water tower and pump station are planned for the area of Mount Pelion. The City and the project consultant hosted a public information centre (PIC) on Tuesday, Jan. 20, 2026, to provide more information on the project, including the location options for the new infrastructure.
+Read/download the slides from the Jan. 20 PIC (PDF)
+About the Trenton Water Distribution System
+The Trenton Water Treatment Plant is a conventional, chemically assisted filtration plant. It is rated to treat and distribute 35,800 cu.m/day. The treated water is pumped into the distribution system through a set of four (4) highlift pumps. The Trenton Water Distribution System (WDS) is split into two (2) pressure zones, each with a dedicated Elevated Water Storage Tank. In Zone 1 pressure zone, the Oak Street tower has a capacity of 2,273 cu.m. In Zone 2 pressure zone, the 2nd Dug Hill Road elevated tank has a capacity of 2,273 cu.m. Five Booster Pumping Stations are located within the Trenton WDS. Supplying Zone 2 pressure zone, are Catherine Street Booster Pumping Station, and Mount Pelion Booster Pumping Station. The Telephone Road Booster Pumping Station supplies water to the 401 ONroute station, the Young’s Cove Fire Booster Pumping Station supplies fire flow protection to the Young’s Cove Development and the Trenton-Frankford Booster Pumping Station supplements demand requirements in the community of Frankford and Batawa.
+The Trenton distribution system services approximately 27,800 people in the Trenton community, in addition to part of CFB Trenton. Through underground pipe networks, the Trenton Water Distribution System is also connected to the Bayside Water Distribution System. The Trenton Water Treatment plant also supplies all drinking water to the Carrying Place and Consecon Water Distribution System in Prince Edward County.
+The main objective of this assignment is the replacement of the Mount Pelion Water Pumping Station and the installation of additional elevated storage for Trenton Pressure Zone 1.
+System upgrades are intended to provide increased capacity for development in each of the pressure zones aligning with the Water and Wastewater Master Plan and the City’s Official Plan. The new infrastructure will provide improved security of supply and reliability of the supply system with long-term operational flexibility.
+A new water tower and pump station are planned for the area of Mount Pelion. The City and the project consultant hosted a public information centre (PIC) on Tuesday, Jan. 20, 2026, to provide more information on the project, including the location options for the new infrastructure.
+Read/download the slides from the Jan. 20 PIC (PDF)
+About the Trenton Water Distribution System
+The Trenton Water Treatment Plant is a conventional, chemically assisted filtration plant. It is rated to treat and distribute 35,800 cu.m/day. The treated water is pumped into the distribution system through a set of four (4) highlift pumps. The Trenton Water Distribution System (WDS) is split into two (2) pressure zones, each with a dedicated Elevated Water Storage Tank. In Zone 1 pressure zone, the Oak Street tower has a capacity of 2,273 cu.m. In Zone 2 pressure zone, the 2nd Dug Hill Road elevated tank has a capacity of 2,273 cu.m. Five Booster Pumping Stations are located within the Trenton WDS. Supplying Zone 2 pressure zone, are Catherine Street Booster Pumping Station, and Mount Pelion Booster Pumping Station. The Telephone Road Booster Pumping Station supplies water to the 401 ONroute station, the Young’s Cove Fire Booster Pumping Station supplies fire flow protection to the Young’s Cove Development and the Trenton-Frankford Booster Pumping Station supplements demand requirements in the community of Frankford and Batawa.
+The Trenton distribution system services approximately 27,800 people in the Trenton community, in addition to part of CFB Trenton. Through underground pipe networks, the Trenton Water Distribution System is also connected to the Bayside Water Distribution System. The Trenton Water Treatment plant also supplies all drinking water to the Carrying Place and Consecon Water Distribution System in Prince Edward County.
+The main objective of this assignment is the replacement of the Mount Pelion Water Pumping Station and the installation of additional elevated storage for Trenton Pressure Zone 1.
+System upgrades are intended to provide increased capacity for development in each of the pressure zones aligning with the Water and Wastewater Master Plan and the City’s Official Plan. The new infrastructure will provide improved security of supply and reliability of the supply system with long-term operational flexibility.
+- 
+January 20 2026
+- 
+AREmail amyr@quintewest.ca

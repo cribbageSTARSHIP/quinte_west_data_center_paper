@@ -1,0 +1,81 @@
+---
+title: "The Dangers of Data Centers"
+subtitle: "Category: Environmental, Water Table, Heat & Wildlife Impacts | Evidence ID: #190"
+date: "Archived: 2026-10-04 20:19"
+---
+
+* **Original URL:** <https://www.environmentalhealthproject.org/post/the-dangers-of-data-centers>
+* **Research Category:** Environmental, Water Table, Heat & Wildlife Impacts
+* **Archival File:** `190_www_environmentalhealthproject_org_post_the-dangers-of-.pdf`
+* **Extraction Status:** Full Web Transcript PDF
+
+---
+
+# Source Content
+
+The Dangers of Data Centers
+Updated: Jul 24
+Data Centers are large facilities containing computer servers used for data storage, data analytics, generative AI, and streaming services. Data centers represent health risks for their neighbors. These risks are especially high from hyperscale data centers powered by fossil fuels, such as those proposed for some parts of Pennsylvania. Listed below are some of the top problems data centers impose on nearby communities.
+Noise Pollution
+Data centers cause noise pollution. First, the heavy equipment used to construct the facilities are loud. Then, once they are up and running, diesel generators plus heating, ventilation, and air conditioning (HVAC) systems create a constant hum that can be audible to neighboring residents and wildlife. Data centers generate noise levels that may exceed 90 decibels. Noise levels above 85 decibels are harmful to hearing.
+Light Pollution
+Data centers generate light pollution. Hyperscale facilities require all-night lighting that disrupts the natural (circadian) rhythms of the body, including melatonin production (the hormone that regulates sleep) and sleep-wake cycles. Light pollution is also disturbing migration patterns and habitat development among birds, butterflies, bats, cats, and turtles—to name only a handful.
+The long-term impacts of both noise and light pollution include hearing loss, stress, insomnia, and decreased quality of life.
+Air Pollution
+Data centers, especially gas-powered data centers, emit significant pollutants, such as nitrogen oxides, methane, volatile organic compounds, and fine particulate matter. According to a September 2025 study, these pollutants increase rates of respiratory diseases and cardiovascular conditions, and they elevate cancer risks among nearby communities. A 2025 model indicates that U.S. data centers in 2030 could cause approximately 600,000 asthma symptom cases and 1,300 premature deaths, exceeding 1/3 of asthma deaths in the U.S. each year, resulting in a public health burden of more than $20 billion.
+Water Waste
+Data centers require water to cool computer servers so they do not become too hot to function. A large data center will use up to 5 million gallons of water daily. Drawing from local water supplies, these facilities are slurping up resources that should be available to residents in water-scarce regions. In fact, data centers increase the threat of water insecurity, and thus dehydration and poor hygiene.
+Nevertheless, a 2025 report by SourceMaterial and The Guardian found that Google has seven active data centers in water-scarce areas of the U.S. and was planning to build six more. Prior to this, in 2023, the state of Arizona revoked construction permits for new homes due to a scarcity of groundwater in Maricopa County, where Meta has one data center, Microsoft has two data centers, and Google has one data center with a second in development.
+Cost Increase for Home Energy Consumers
+Data centers have typically not paid their fair share in utilities, particularly for electricity consumption, and in those situations other consumers (including residential customers) have had to pay more than they otherwise would.
+Utility companies identify data centers as large load customers, meaning that they require a lot more energy from the power grid. When a utility grid operator must add new infrastructure to accommodate growing populations or large load customers, rates may increase for all users in that region, despite attempts to regulate those increases or to allocate costs to the large load customer. In fact, utility grid operators will sometimes negotiate lower rates to incentivize large load customers to build in their territory, meaning that additional expenses must be covered by the other customer segments.
+Last year, analysts estimated a 20% rate increase for Pennsylvania households. The U.S. Energy Information Administration shows the average resident has been paying 37% more for electricity since 2020. U.S. energy demand is expected to grow 2.5% annually over the next decade. Therefore, it is likely that residents will see an increase in energy rates. These trends indicate data centers make cost of living more expensive.
+In response to escalating concerns over energy costs, Pennsylvania Governor Josh Shapiro recently announced new standards that require data center developers to construct their own energy sources or pay for the upgrades to the grid, sparing local consumers the costs. It remains to be seen how, when, and for which facilities those standards will be enforced, but even if the average home is spared the additional financial costs of a data center boom, there is still the price of numerous environmental hazards listed above, especially if new data centers rely on fracked gas for power.
+This data center boom and the subsequent demand for more energy presents an opportunity to protect public health and to invest in renewable energy as a driver of the economy, but we need to make that choice now. If data centers are encroaching on our region, they must be powered by cleaner, renewable sources of energy to avoid imposing additional health hazards associated with oil and gas development onto nearby communities.
+Who Is Affected?
+As with other forms of air pollution, those at increased risk include children, developing fetuses, pregnant people, elderly, and individuals with chronic respiratory or cardiovascular disease.
+Data Centers also pose environmental justice concerns because they disproportionately affect minority and low-income communities. First, trends point to energy sources that fuel data centers being built near Black communities, which suffer the consequences of exposure to pollution, identified above. Plus, research indicates that the automation capabilities of AI are predicted to replace more jobs performed by Black people, and thus widening systemic inequities that overwhelmingly keep Black households at an economic disadvantage.
+This trend is not a new one. In fact, for people throughout our region, it is a familiar story. Data centers powered by fracked gas, like other oil and gas industries, threaten some of our most vulnerable community members, but they also put every nearby person at greater risk for health consequences—not to mention the added financial burden of health care costs.
+What Can We Do?
+The companies behind the data center boom are moving quickly into communities across the region, many with promises of prosperity. But some communities are pushing back and saying that data centers are not worth the health and environmental impacts. If you agree with that sentiment, there are steps you can take to combat data centers in your backyard.
+- First, check if your municipality has a data center ordinance. If not, urge officials to adopt one.
+- Then, identify opportunities for community participation before the proposed data center is approved. Will a public hearing be required? If so, take this opportunity to express your concerns and to share this resource with other community members.
+- Next, reference nuisance control ordinances (rules for limiting noise, light, and vibrations), plus zoning laws that would restrict new data centers in your region.
+- If the data center must be built, advocate for limiting the use of fossil fuels in both everyday operations and generator backups. Encourage decision makers and developers to utilize renewable energy sources, such as wind turbines and solar panels.
+- Finally, urge decision makers to require any facility to report their emissions and share an emergency preparedness plan with the community.
+To learn more, follow the Environmental Health Project
+- Subscribe to our monthly newsletter for updates, events, and resources.
+- We also offer a quarterly health newsletter, full of research reviews, webinar invitations, events, and fact sheets.
+- Plus, get the latest updates on your favorite social media: Instagram, Facebook, LinkedIn, and BlueSky.
+References
+Andreassi, J. (2026). South Strabane Township shares draft ordinance for data centers. Observer-Reporter. https://www.observer-reporter.com/news/local_news/2026/feb/10/south-strabane-township-shares-draft-ordinance-for-data-centers/
+Burt, C., Kelly, J., Trankina, G., Silva, C., Khalighifar, A., Jenkins-Smith, H., Fox, A., Fristrup, K., Horton, K. (2023). The effects of light pollution on migratory animal behavior. Trends in Ecology & Evolution, 38(4), 355-368. https://doi.org/10.1016/j.tree.2022.12.006
+Chen, A. (2025). A.I. is on the rise, and so is the environmental impact of the data centers that drive it. Smithsonian Magazine. https://www.smithsonianmag.com/science-nature/with-ai-on-the-rise-what-will-be-the-environmental-impacts-of-data-centers-180987379/
+Cook, K., Pinder, D., Stewart, S., Uchegbu, A., Wright, J. (2019). The future of work in Black America. McKinsey & Company. https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-in-black-america
+Environmental Defense Fund. (2025). Clearing the air: the need and opportunity to reduce unhealth pollution from gas-fired power plants and industrial facilities. https://turbinemap.edf.org/
+Good, Q., Neumann, J., Scarr, A., Cross, R. (2025). Big data centers, big problems: the surging environmental and consumer costs of AI, crypto and big data. Environment America Research and Policy Center and U.S. PIRG Education Fund. https://publicinterestnetwork.org/wp-content/uploads/2025/01/Big-data-centers-big-problems-January-2025.pdf
+Gough, P. (2026). Gov. Josh Shapiro proposes new standards requiring data centers to bring their own power. Pittsburgh Business Times. https://www.bizjournals.com/pittsburgh/news/2026/02/03/governor-shapiro-data-center-regulations-budget.html
+Gunn, E. (2025). Big Tech’s data centre push will take water from the world’s driest areas. SourceMaterial and The Guardian. https://www.source-material.org/amazon-microsoft-google-trump-data-centres-water-use/
+Hakas, A. (2025). Data centers gobble up energy. Regulators want to ensure Pa. consumers don’t foot the bill. Spotlight PA. https://www.spotlightpa.org/news/2025/08/data-centers-ai-utility-commission-electricity-pennsylvania-environment/
+Halper, E., O'Donovan, C. (2024). As data centers for AI strain the power grid, bills rise for everyday customers. The Washington Post. https://www.washingtonpost.com/business/2024/11/01/ai-data-centers-electricity-bills-google-amazon/
+Han, Y., Wu, Z., Li, P., Wierman, A., Ren, S. (2025). The unpaid toll: quantifying and addressing the public health impact of data centers. ArXiv, 2412, 06288. https://doi.org/10.48550/arXiv.2412.06288
+Hearing Health Foundation. (2026). What are safe decibels? https://hearinghealthfoundation.org/keeplistening/decibels
+Hurwitz, S. (2026). People hate data centers, so the industry is spending millions to rebrand them. Mother Jones. https://www.motherjones.com/politics/2026/01/data-centers-public-opposition-industry-advertising-rebranding-jobs-lower-energy-bills/
+Jennings, C. (2025). The cloud is drying our rivers: water usage of AI data centers. EthicalGEO. https://ethicalgeo.org/the-cloud-is-drying-our-rivers-water-usage-of-ai-data-centers/
+Knowles, J. (2026). More data centers coming to Illinois as residents complain about noise, electric bills: what to know. ABC7 Chicago. https://abc7chicago.com/post/what-is-data-center-expect-more-centers-illinois-like-cyrusone-aurora-il-amid-noise-electric-bill-complaints/18610141/
+Mahan, J. (2024). Data center noise: effective strategies for reduction. C&C WaveTech. https://cc-techgroup.com/data-center-noise/
+Mahoney, A. (2025). How the data center boom could harm Black communities. Canary Media. https://www.canarymedia.com/articles/fossil-fuels/how-the-data-center-boom-could-harm-black-communities
+McDevitt, R. (2025). As more data centers connect to Pennsylvania’s electric grid, some worry prices will spike. The Allegheny Front. https://www.alleghenyfront.org/data-centers-pennsylvanias-electric-grid-rates/
+Monserrate, S. (2022). The staggering ecological impacts of computation and the cloud. The MIT Press Reader. https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/
+National Geographic Society. (2025). “Light Pollution.” https://education.nationalgeographic.org/resource/light-pollution/
+Occupational Safety and Health Administration. (2024). Occupational Noise Exposure. U.S. Department of Labor. https://www.sensear.com/markets/data-centers/noise-levels-infographic
+O’Leary, S. (2025). Why data centers will be economic development duds. Ohio River Valley Institute. https://ohiorivervalleyinstitute.org/why-data-centers-will-be-economic-development-duds/
+Pavlinich, E. (2026). Shippingport data centers will be financial, health burdens on Beaver County residents. Pittsburgh Tribune-Review. https://triblive.com/opinion/elan-justice-pavlinich-shippingport-data-centers-will-be-financial-health-burdens-on-beaver-county-residents/
+Sachs, J. (2023). “How light pollution impacts wildlife and how you can help.” National Wildlife Federation. https://www.nwf.org/Magazines/National-Wildlife/2023/Summer/Conservation/Light-Pollution-Wildlife
+Sensear. (2026). Data center noise levels. https://www.sensear.com/markets/data-centers/noise-levels-infographic
+Tao, Y., Gao, P. (2025). Global data center expansion and human health: A call for empirical research, Eco-Environment & Health, 4(3), 100157. https://www.sciencedirect.com/science/article/pii/S2772985025000262?via%3Dihub
+Tessum, C., Paolella, D., Chambliss, S., Apte, J., Hill, J., Marshall, J. (2021). PM.2.5 polluters disproportionately and systemically affect people of color in the United States. Science Advances, 7(18), eabf4491. https://www.science.org/doi/10.1126/sciadv.abf4491
+United States Environmental Protection Agency. (2021). Study finds exposure to air pollution higher for people of color regardless of region or income. https://www.epa.gov/sciencematters/study-finds-exposure-air-pollution-higher-people-color-regardless-region-or-income
+U.S. Energy Information Administration. (2026). Short-term energy outlook data browser. https://www.eia.gov/outlooks/steo/data/browser/#/
+Walton, R. (2025). US electricity demand to grow 2.5% annually through 2035: Bofa Institute. Utility Dive. https://www.utilitydive.com/news/us-electricity-demand-to-grow-25-annually-thru-2035-bofa-institute/753911/
+Yañez-Barnuevo, M. (2025). Data centers and water consumption. Environmental and Energy Study Institute. https://www.eesi.org/articles/view/data-centers-and-water-consumption

@@ -1,0 +1,31 @@
+---
+title: "EXPANDING THE DEFINITION OF &quot;IMMOVABLE&quot;: RAMIFICATIONS FOR DATA CENTRES - Gascon et associés: Cabine"
+subtitle: "Category: Ontario MPAC Shell vs. Contents & Canadian Taxation | Evidence ID: #121"
+date: "Archived: 2026-10-04 20:16"
+---
+
+* **Original URL:** <https://gascon.ca/en/definition-of-immovable-ramifications-for-data-centres/>
+* **Research Category:** Ontario MPAC Shell vs. Contents & Canadian Taxation
+* **Archival File:** `121_gascon_ca_en_definition-of-immovable-ramifications-for-.pdf`
+* **Extraction Status:** Full Web Transcript PDF
+
+---
+
+# Source Content
+
+In Quebec, municipalities can levy property taxes on data centre equipment, as well as on other types of real estate and equipment. The terms of taxation are subject to various factors, including local tax policies, property value, and assessment by municipal authorities. We deem important inform our clients about the possible applicability to their sector, as recent jurisprudence suggests a broad interpretation of the term “immovable.”
+This expanded interpretation becomes particularly significant in the context of the province’s strong attraction for data centres establishment. Indeed, Quebec offers numerous advantages, including affordable and abundant energy from Hydro-Québec’s electrical grid and a colder climate. Additionally, Montréal’s global reputation in artificial intelligence enhances this appeal.
+What Constitutes an Immovable Under the Act Respecting Municipal Taxation?
+Under the Act respecting municipal taxation (“ARMT”), a building is understood in both its common sense, encompassing land, permanent buildings, and anything integral to them, as well as in a specific sense within the ARMT, relating to the attachment of movable property to an immovable. This specific interpretation raised by the law raises further questions, which will be the main focus of this article.
+What Should be Understood by the Concept of Attachment in Relation to Immovable Property?
+In recent years, the Court of Appeal has closely examined the specific question of classifying data centre equipment as permanently fixed to an immovable. The Court concluded that data centre equipment could be considered “permanently attached” even in the absence of physical attachment, provided there is an intellectual connection to the building.
+Indeed, in the case of Ville de Montréal v. Société en commandite Locoshop Angus, where the issue was whether equipment used to host computer servers are considered movable property “permanently attached” to the building in which they are installed, and therefore whether they should be included in the property assessment of that building, the Court reached four conclusions:
+- The lack of physical attachment is not a decisive factor in establishing the immovability of the equipment. What must be considered is their effective attachment.
+- The general purpose of the buildings does not determine the qualification of movable property attached to them. The attachment of movable property is not limited to buildings with specific purposes.
+- The presence of multiple tenants in a building does not prevent the attachment of movable property.
+- The intellectual connection between the building and its components. For example, an integrated electricity and air conditioning supply and distribution network installed within the building to meet the specific needs of a data center. Even if some equipment installed exceed the usual needs of the building, this does not alter the intellectual connection between this equipment and the part of the building leased by the tenant.
+The Court reiterated these principles in Ville de Québec v. Vidéotron ltée. In this case, the City of Quebec challenged the decision to exclude Vidéotron’s wireless telephony equipment from property assessment. The Court of Appeal ruled in favour of the City of Quebec, thus allowing the addition of this equipment to the property roll in accordance with the ARMT under the same inclusion criterion, namely that the wireless telephony equipment met the criteria defined by the law to be considered permanently attached to the building and therefore taxable. This includes the fixation of the equipment and its connection to the building.
+What are the Possible Impacts of this Broad Interpretation?
+Jurisprudence, which adopts a broad interpretation of the term “immovable”, leads us to encourage our clients to proceed with caution when handling leases affecting not only data centres but also any other area related to the telecom sector and any company wishing to invest in equipment. Indeed, as the value of technological equipment in a building can be high, it is important to consider this possibility of taxation when negotiating and drafting real estate leases, both as a tenant and as an owner, to establish roles and responsibilities regarding this matter.
+Recent reports indicate that data centres have mobilized to challenge this interpretation. From their perspective, the industry should benefit from the same property tax exemptions that apply to the manufacturing sector. This mobilization also extends to the Quebec Employers Council and the Quebec’s Federation of Chambers of Commerce. Representations are currently being made to the authorities in this regard, and we will update this article in due course. However, The Supreme Court dismissed the application for leave to appeal for these two recent decisions of the Court of Appeal, thereby solidifying the rights of the affected companies with this settled law.
+By Gascon and Audrey Robitaille

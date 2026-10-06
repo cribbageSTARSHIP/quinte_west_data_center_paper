@@ -1,0 +1,317 @@
+# Data Center Research Wiki Index
+
+Master catalog of compiled entities, concepts, regional comparisons, and drafted sections.
+
+
+## Concepts
+- [[ontario-data-center-spills]]: Ascent TOR1 Cambridge Stormwater Retention Pond Contamination (July 2026)
+- [[dba-vs-dbc-weighting-and-low-frequency-noise]]: Mathematical analysis of dBA vs dBC attenuation curves, transformer hum, and acoustic metamaterial barriers.
+
+- [[concepts/honeybee-vibroacoustics-and-comb-transmission.md]]: Honeybee vibroacoustic communication and comb transmission mechanisms
+- [[concepts/elf-emf-impacts-on-pollinator-cognition.md]]: Effects of ELF-EMF on pollinator cognition and foraging behavior
+- [[concepts/propylene-glycol-aquatic-hypoxia-bod.md]]: Propylene glycol's aquatic hypoxia impact and BOD degradation curve
+
+
+- [honey-bee-data-center-vibrations](concepts/honey-bee-data-center-vibrations.md): Honey Bee Communication and Data Center Vibrations (By Research Pillar)
+- [[about-example-below-concept]]: Example Below Concept
+- [[acoustical-consultants-com-built-environment-noise-investiga-concept]]: Acoustic Measurement Weighting Standards (A-weighting vs C-weighting)
+- [[ai-data-center-cooling-technologies]]: Ai Data Center Cooling Technologies
+- [[alberta-ca-datacentres-big-tech-concept]]: Alberta's Data Centre Regulatory Framework
+- [[alberta-water-permits-for-data-centers]]: alberta-water-permits-for-data-centers
+- [[alberta-water-regulation]]: alberta-water-regulation
+- [[albertawilderness-ca-issues-wildlands-energy-hyperscale-ai-d-concept]]: Environmental Impact of Hyperscale AI Data Centres
+- [[amcto-com-network-community-blog-ontarios-data-centre-playbo-concept]]: Ontario Data Centre Playbook for Municipal Governance
+- [[batteries-in-data-centers]]: batteries-in-data-centers
+- [[battery-energy-storage-systems-in-data-centers]]: battery-energy-storage-systems-in-data-centers
+- [[battery-energy-storage-thermal-runaway-risks]]: Battery Energy Storage Thermal Runaway Risks
+- [[betakit-com-heres-how-every-canadian-province-and-territory--concept]]: Canadian Provincial Data Centre Policies
+- [[blog-nwf-org-2026-05-data-centers-water-and-the-strain-on-lo-concept]]: Water Use in AI Data Centers
+- [[ca-finance-yahoo-com-news-hidden-canadian-winners-data-centr-concept]]: Data Center Infrastructure and Telecom Connectivity
+- [[cambridgetoday-ca-local-news-spill-cleanup-continues-at-camb-concept]]: Cambridge Data Centre Stormwater Spill Cleanup
+- [[canada-ca-en-environment-climate-change-services-environment-concept]]: Air Pollutant Emissions in Canada
+- [[canada-ca-en-health-canada-services-publications-healthy-liv-concept]]: Health Impacts of Air Pollution in Canada
+- [[canada-ca-en-innovation-science-economic-development-news-20-concept]]: Responsible Data Centre Development Principles
+- [[canadas-water-policies-for-data-centers]]: Canadas Water Policies For Data Centers
+- [[canadian-accountant-com-content-business-bc-taxes-ai-data-ce-concept]]: BC Data Center Tax Revenue and Fiscal Sustainability
+- [[canadian-grid-integration-and-demand-flexibility]]: Canadian Grid Integration and Demand Flexibility
+- [[canadians-org-analysis-a-moratorium-on-ai-data-centres-concept]]: Moratorium on AI Data Centres
+- [[cape-ca-resource-health-facts-gas-powered-data-centres-concept]]: Environmental Impact of AI Data Centres
+- [[cardiovascular-impacts-data-center-emissions]]: Cardiovascular Impacts of Data Center Emissions
+- [[ccohs-ca-oshanswers-phys-agents-noise-non-auditory-html-concept]]: Non-Auditory Effects of Noise
+- [[clearwatershelton-com-glycol-contamination-concept]]: Glycol Contamination in Industrial Systems
+- [[clearwatershelton-com-propylene-glycol-safety-concept]]: Propylene Glycol Safety Measures and Hazards
+- [[climatefast-ca-project-2025-12-say-no-ai-data-centres-concept]]: Environmental Impact of AI Data Centres
+- [[cnn-com-2026-03-30-climate-data-centers-are-having-an-underr-concept]]: Heat Islands from AI Data Centers
+- [[consolidatedcontainment-com-blogs-containmentcorner-spill-co-concept]]: Consolidated Containment - Data Center Fuel System Spill Containment
+- [[ctvnews-ca-windsor-article-essex-county-council-to-debate-mu-concept]]: Essex County Council's Municipal Framework for AI Data Centres
+- [[damascuscitizensforsustainability-org-2026-08-23-low-frequen-concept]]: Low-Frequency Noise from Data Centers and Human Health Impacts
+- [[data-center-air-pollution-and-respiratory-disease]]: Data Center Air Pollution and Respiratory Disease
+- [[data-center-community-engagement-strategies]]: data-center-community-engagement-strategies
+- [[data-center-emissions-health-impacts]]: data-center-emissions-health-impacts
+- [[data-center-noise-pollution-in-virginia]]: Data Center Noise Pollution in Virginia
+- [[data-centers-ai-data-centers-impact-on-electric-bills-water-and-more-a1040338678--concept]]: Data Centers Ai Data Centers Impact On Electric Bills Water And More A1040338678  Concept
+- [[datacenterally-com-blog-why-dba-is-not-the-whole-sound-story-concept]]: Acoustic Measurement Weighting Standards (A-weighting vs C-weighting)
+- [[datacenterknowledge-com-regulations-how-are-data-centers-tax-concept]]: Data Center Taxation Frameworks
+- [[dec-vermont-gov-sites-dec-files-wmd-hazwaste-fact-sheets-pro-concept]]: Propylene Glycol Environmental Management
+- [[diesel-backup-generators-health-risks]]: diesel-backup-generators-health-risks
+- [[diesel-generator-emissions-health-impacts]]: Diesel Generator Emissions and Health Impacts
+- [[diesel-generator-health-impacts]]: Health Impacts of Diesel Generator Emissions
+- [[diesel-generator-tier2-vs-tier4-emissions]]: Diesel Generator Tier 2 vs Tier 4 Emissions
+- [[ecology-wa-gov-air-climate-air-quality-data-centers-concept]]: Diesel Pollution from Data Centers and Health Impacts
+- [[economic-and-health-costs-of-gas-powered-data-centers]]: economic-and-health-costs-of-gas-powered-data-centers
+- [[economic-costs-of-data-center-health-impacts]]: Economic Costs of Data Center Health Impacts
+- [[ehn-org-honeybee-emf-power-line-pollination-concept]]: Environmental Impacts of EMF Radiation on Honeybee Pollination
+- [[ehsciences-org-ai-data-center-health-impacts-concept]]: AI Data Center Health Impacts
+- [[elc-ab-ca-post-library-are-we-being-smart-about-ai-data-cent-concept]]: Environmental and Regulatory Challenges of AI Data Centers in Alberta
+- [[elchemy-com-blogs-chemical-market-ethylene-glycol-vs-propyle-concept]]: Ethylene Glycol vs Propylene Glycol: Thermal Efficiency, Toxicity, and Sustainability
+- [[elexiconenergy-com-about-us-concept]]: Elexicon Energy - About Us Concept
+- [[emergency-diesel-generator-emissions-and-epa-framework]]: Emergency Diesel Generator Emissions and EPA Regulatory Framework
+- [[emergency-diesel-generator-emissions]]: emergency-diesel-generator-emissions
+- [[en_US-solutions-applications-data-centers.html-concept]]: En_Us Solutions Applications Data Centers.Html Concept
+- [[energy-costs]]: Energy Costs
+- [[environment-yale-edu-news-article-data-centers-urban-heat-an-concept]]: Environmental Impacts of Data Centers on Urban Heat and AI Growth
+- [[environmental-assessment-exemptions-for-data-centers]]: environmental-assessment-exemptions-for-data-centers
+- [[environmental-impact-assessment-for-data-centers]]: Environmental impact assessment for data centers
+- [[environmental-impact-assessments-for-data-centers]]: environmental-impact-assessments-for-data-centers
+- [[environmental-impact-concerns]]: environmental-impact-concerns
+- [[environmental-impact-of-alberta-data-centers]]: environmental-impact-of-alberta-data-centers
+- [[environmentalhealthproject-org-post-the-dangers-of-data-cent-concept]]: Environmental Impacts of AI Data Centers
+- [[epa-regulatory-standards-for-data-centers]]: EPA Regulatory Standards for Data Center Emissions
+- [[ero-ontario-ca-notice-025-1001-concept]]: Ontario Data Center Prioritization Regulation
+- [[federal-impact-assessment-process]]: Federal Impact Assessment Process
+- [[financialpost-com-technology-alberta-ai-data-centre-investme-concept]]: Alberta AI Data Centre Investment and Local Burden
+- [[fondationdegaspebeaubien-org-en-water-and-ai-the-hidden-cons-concept]]: Water Usage in AI Data Centers
+- [[fox32chicago-com-news-illinois-data-center-boom-raises-quest-concept]]: Environmental Impact of Data Center EMFs on Honeybee Navigation
+- [[gascon-ca-en-definition-of-immovable-ramifications-for-data--concept]]: Definition of Immovable Ramifications for Data Centres in Quebec
+- [[getinvolved-quintewest-ca-trenton-water-distribution-system--concept]]: Trenton Water Distribution System Infrastructure
+- [[gothamist-com-news-broken-valves-caused-a-data-center-to-spi-concept]]: Data Center Fuel System Spill Containment
+- [[gov-mb-ca-nrnd-fish-wildlife-cdc-index-html-concept]]: Conservation Data Centres and Biodiversity Preservation
+- [[gpsnauticalcharts-com-main-nautical-chart-cagps0usir17fy9pxc-concept]]: Lake Ontario CFB Trenton Quinte West Harbour Chart (1:9000) Concept
+- [[greenhouse-gas-emissions-regulation]]: Greenhouse Gas Emissions Regulation
+- [[grid-strain-and-peak-demand]]: 01-power-grid: U.S. Data Center Electricity Consumption
+- [[grid-strain-from-cumulative-load]]: Grid Strain from Cumulative Load
+- [[health-impacts-data-center-noise-pollution]]: Health Impacts of Data Center Noise Pollution
+- [[health-impacts-fossil-fuel-data-centers]]: Health Impacts of Fossil Fuel-Powered Data Centers
+- [[health-impacts-of-data-center-air-pollution]]: Health Impacts of Data Center Air Pollution
+- [[health-impacts-of-data-center-emissions]]: Health Impacts of Data Center Emissions
+- [[health-impacts-of-diesel-generators-in-data-centers]]: Health Impacts of Diesel Generators in Data Centers
+- [[historicplaces-ca-en-rep-reg-place-lieu-aspx-id-10517-concept]]: Historic Places and Architectural Heritage
+- [[hydratechfluids-com-us-technical-blog-propylene-glycol-59-concept]]: Propylene Glycol Antifreeze Properties and Applications
+- [[iaac-aeic-gc-ca-050-evaluations-proj-90123-contributions-id--concept]]: Environmental and Social Impacts of Hyperscale Data Centers
+- [[ieso-ca-en-learn-ontario-power-system-overview-of-the-grid-concept]]: Ontario Power Grid Management by IESO
+- [[info-environmental-noise-control-com-resources-dba-vs-dbc-concept]]: Acoustic Measurement Weighting Standards (A-weighting vs C-weighting)
+- [[insideclimatenews-org-news-12112025-data-center-diesel-gener-concept]]: Noise Pollution from Data Center Diesel Generators
+- [[ised-isde-canada-ca-site-ised-en-data-centres-powering-canad-concept]]: Canada's Responsible Data Centre Development Principles
+- [[laballey-com-blog-propylene-glycol-safety-hazards-concept]]: Propylene Glycol Safety & Hazards
+- [[labor-spinoffs-in-data-centers]]: labor-spinoffs-in-data-centers
+- [[lincolninst-edu-publications-land-lines-magazine-articles-la-concept]]: Water and Power Consumption in AI Data Centers
+- [[linkedin-com-posts-ilse-hesselberth-8116477a-how-data-center-concept]]: Data Center Fuel Spill Containment Mechanisms
+- [[linkedin-com-pulse-so-what-jobs-does-data-center-actually-pr-concept]]: Data Center Job Ecosystem and AI Impact
+- [[linkedin-com-pulse-what-data-centers-doing-bees-priyanka-meh-concept]]: Environmental Impacts of AI Data Centers on Bees
+- [[lioapplications-lrc-gov-on-ca-clupa-index-html-viewer-clupa--concept]]: Geocortex Essentials in CLUPA Application
+- [[loudoun-gov-6405-noise-air-quality-concerns-concept]]: Loudoun-Gov-6405-Noise-Air-Quality-Concerns-Concept
+- [[low-frequency-noise-chillers-and-substations]]: Low-Frequency Noise from Chillers and Substations
+- [[mltaikins-com-insights-ai-data-centres-in-canada-legal-and-r-concept]]: Legal and Regulatory Considerations for AI Data Centre Development in Canada
+- [[mpac-ca-sites-default-files-docs-pdf-standardindustrialprope-concept]]: Valuation Methodology for Standard Industrial Properties in Ontario
+- [[municipal-tax-incentives-for-data-centers]]: municipal-tax-incentives-for-data-centers
+- [[nationalmagazine-ca-en-ca-articles-in-depth-2025-data-s-dark-concept]]: Water Consumption in AI Data Centers
+- [[nationalobserver-com-2026-03-02-news-ontario-towns-cities-da-concept]]: Ontario Data Centre Spatial Mapping Analysis
+- [[nationalobserver-com-2026-08-20-news-ontario-data-centre-pla-concept]]: Ontario Data Centre Playbook for Cities
+- [[ncbi-nlm-nih-gov-books-nbk598037-concept]]: Evaporative Cooling Loss Mechanisms
+- [[nesfircroft-com-resources-blog-data-centers-how-is-this-impa-concept]]: Data Center Energy Impact on Canada's Grid
+- [[noise-pollution-and-respiratory-health-risks]]: Noise Pollution And Respiratory Health Risks
+- [[noise-pollution-data-center-cooling-systems]]: Noise Pollution from Data Center Cooling Systems
+- [[noise-pollution-data-center-cooling]]: Noise Pollution from Data Center Cooling Systems
+- [[noise-pollution-effects-on-communities]]: Noise Pollution Effects on Communities
+- [[noisemeters-ca-help-faq-frequency-weighting-concept]]: Frequency Weighting in Sound Measurement
+- [[noiseproject-org-how-different-sound-levels-can-affect-you-concept]]: Noise Project - How Different Sound Levels Can Affect You
+- [[nwf-org-magazines-national-wildlife-2025-fall-conservation-a-concept]]: Environmental Impacts of AI Data Centers
+- [[oe-clean-energy-resources-meet-data-center-electricity-demand-concept]]: Oe Clean Energy Resources Meet Data Center Electricity Demand Concept
+- [[ontario-ca-laws-statute-90a31-concept]]: Ontario Statute 90A31 - Legal Access Requirements
+- [[ontario-ca-page-report-pollution-and-spills-concept]]: Ontario Pollution Reporting Process
+- [[particulate-matter-and-pfas-emissions]]: particulate-matter-and-pfas-emissions
+- [[patch-com-new-jersey-secaucus-data-center-spills-5-500-gallo-concept]]: Data Center Fuel System Spill Containment
+- [[pfas-toxins-in-data-centers]]: pfas-toxins-in-data-centers
+- [[pmc-ncbi-nlm-nih-gov-articles-pmc10181175-concept]]: Environmental Impact Assessment of AI Data Center Infrastructure
+- [[policyalternatives-ca-news-research-so-youre-getting-a-data--concept]]: Data Centre Environmental Impact Assessment
+- [[power-grid-strain-in-alberta]]: power-grid-strain-in-alberta
+- [[power-grid-strain]]: Power Grid Strain
+- [[publications-land-lines-magazine-articles-land-water-impacts-data-centers--concept]]: Publications Land Lines Magazine Articles Land Water Impacts Data Centers  Concept
+- [[quinte-west-municipal-water-and-planning-baseline]]: Quinte West Municipal Water and Planning Baseline
+- [[quinteconservation-ca-concept]]: Quinte Conservation's Environmental Management Practices
+- [[quinteconservation-ca-media-qzmk2ljb-quinte-conservation-wat-concept]]: Quinte Conservation Watershed Management
+- [[quinteconservation-ca-outdoor-spaces-areas-concept]]: Quinte Conservation Outdoor Spaces and Areas Concept
+- [[quinteconservation-ca-watershed-management-dams-concept]]: Quinte Conservation Watershed Management and Dams
+- [[quinteconservation-ca-who-we-are-resources-protecting-drinki-concept]]: Groundwater Contamination Risks & Private Well Management
+- [[quintenews-com-2022-01-25-power-outages-what-happened-concept]]: Power Grid Failure Analysis - Quinte West 2022
+- [[quintenews-com-2026-06-09-maintaining-ecological-integrity-a-concept]]: Ecological Integrity in Ontario Parks
+- [[quintewest-ca-water-environment-water-sewer-faq-concept]]: Quinte West Water Sewer FAQ Concept
+- [[quintewest-ca-wp-content-uploads-2022-02-2021-annual-report--concept]]: 02-water-ecology - Evaporative Cooling Loss in Quinte West Data Centers
+- [[regulatory-challenges-hyperscale-data-centers]]: regulatory-challenges-hyperscale-data-centers
+- [[resources-esri-ca-assessment-what-is-the-impact-of-data-cent-concept]]: Data Center Proximity and Property Valuation Analysis
+- [[respiratory-health-risks-data-center-pollutants]]: respiratory-health-risks-data-center-pollutants
+- [[respiratory-impacts-data-center-emissions]]: Respiratory Impacts of Data Center Emissions
+- [[response-epa-gov-site-site-profile-aspx-site-id-9461-concept]]: Propylene Glycol Spill Incident
+- [[scribd-com-document-739354981-ozz-solar-development-inc-tech-concept]]: Solar PV Carport and Rooftop Projects in Toronto
+- [[sites-stpp-files-2025-07-stpp-data-centers-2025.pdf-concept]]: Sites Stpp Files 2025 07 Stpp Data Centers 2025.Pdf Concept
+- [[sounddbmeter-com-dba-vs-dbc-concept]]: Acoustic Measurement Weighting Standards (A-weighting vs C-weighting)
+- [[southeasternontario-ca-itineraries-bay-of-quinte-west-concept]]: Bay of Quinte West Cycling Itinerary Concept
+- [[static1-squarespace-com-static-59af5a537131a5b42451a91d-t-6a-concept]]: Data Center Noise General Guidelines
+- [[subsidy-per-job-ratios-in-data-centers]]: Subsidy-Per-Job Ratios in Data Centers
+- [[sustainabilitymatters-net-au-content-sustainability-news-ai--concept]]: Environmental Impact of AI on Bees
+- [[taxfoundation-org-research-all-state-data-centers-taxation-concept]]: Data Center Taxation Frameworks
+- [[temporary-construction-jobs-vs-permanent-staffing]]: Temporary Construction Jobs vs Permanent Staffing in Data Centers
+- [[thealbertan-com-olds-news-town-of-olds-could-reap-millions-o-concept]]: Municipal Tax Revenue from Hyperscale Data Centers in Alberta
+- [[theanimalreader-com-2026-07-10-how-ai-data-centers-are-affec-concept]]: Environmental Impacts of AI Data Centers
+- [[thebeesknees-website-bees-data-concept]]: Environmental Impacts of AI Data Centers on Bees
+- [[theglobeandmail-com-business-commentary-article-canada-ai-da-concept]]: Community and Environmental Impact of AI Data Centers in Canada
+- [[theglobeandmail-com-investing-markets-stocks-gev-pressreleas-concept]]: AI Data Center Power Infrastructure and Industrial Equipment Demand
+- [[theguardian-com-environment-2026-oct-01-us-datacenter-new-je-concept]]: Data Center Unpermitted Generator Pollution and NOx Emissions
+- [[thenoisechap-com-noise-safety-information-dba-and-dbc-data-i-concept]]: dB(A) and dB(C) in Noise Assessments
+- [[thestute-com-2026-10-02-thousands-of-gallons-of-diesel-spill-concept]]: Data Center Diesel Spill Incident and Environmental Impact
+- [[timesofindia-indiatimes-com-science-are-data-centres-harming-concept]]: Environmental Impact of EMFs on Bees from Data Centers
+- [[us-data-center-growth-impacts]]: US Data Center Growth Impacts
+- [[virginia-data-center-energy-demand-and-environmental-impact]]: virginia-data-center-energy-demand-and-environmental-impact
+- [[water-consumption-from-power-generation]]: Water Consumption from Power Generation
+- [[water-consumption-in-ai-data-centers]]: water-consumption-in-ai-data-centers
+- [[water-ecology-impact]]: water-ecology-impact
+- [[water-ecology-impacts-in-data-centers]]: Water Ecology Impacts in Data Centers
+- [[water-scarcity-and-health-impacts-in-virginia]]: Water Scarcity And Health Impacts In Virginia
+- [[wellandtribune-ca-news-canada-bc-s-local-governments-call-fo-concept]]: BC's Data Center Tax Revenue and Fiscal Sustainability
+- [[www2-gov-bc-ca-gov-content-environment-air-land-water-spills-concept]]: Rivers Inlet Diesel Spill Incident and Environmental Impact
+
+## Web Evidence Sources\n\n- [[raw/articles/web_archive/036_www_annabeeshoney_com_post_buzz-buzz-buzz-goes-the-hone.md]]: Honey bee behavior study\n- [[raw/articles/web_archive/195_www_eesi_org_articles_view_data-centers-are-hotbeds-of-.md]]: Data center energy use analysis\n- [[raw/articles/web_archive/166_mapcarta_com_24591188.md]]: Quinte West land use mapping\n- [[raw/articles/web_archive/070_www_blakes_com_insights_ontario-announces-streamlined-p.md]]: Ontario data center regulations\n- [[raw/articles/web_archive/241_www_reddit_com_r_datacenter_comments_1v2vw0h_beyond_the.md]]: Community discussions on data center impacts\n- ... (236 more documents)
+- [[about-example-below-entity]]: Example Below Entity
+- [[acoustical-consultants-com-built-environment-noise-investiga-entity]]: Acoustical Consultants Inc.
+- [[alberta-ca-datacentres-big-tech-entity]]: Alberta Data Centre Regulatory Authority
+- [[alberta-data-center-construction-impacts]]: alberta-data-center-construction-impacts
+- [[alberta-data-center-environmental-regulations]]: alberta-data-center-environmental-regulations
+- [[alberta-data-center-regulation]]: alberta-data-center-regulation
+- [[alberta-data-center-strategy]]: Alberta Data Center Strategy
+- [[albertawilderness-ca-issues-wildlands-energy-hyperscale-ai-d-entity]]: Alberta Wilderness Association
+- [[amcto-com-network-community-blog-ontarios-data-centre-playbo-entity]]: Association of Municipalities of Ontario (AMO)
+- [[association-of-municipalities-of-ontario-entity]]: Association of Municipalities of Ontario (AMO)
+- [[betakit-com-heres-how-every-canadian-province-and-territory--entity]]: BetaKit Data Centre Policy Analysis
+- [[blog-nwf-org-2026-05-data-centers-water-and-the-strain-on-lo-entity]]: National Wildlife Federation (NWF)
+- [[ca-finance-yahoo-com-news-hidden-canadian-winners-data-centr-entity]]: TELUS Corporation
+- [[cambridgetoday-ca-local-news-spill-cleanup-continues-at-camb-entity]]: Cambridge Data Centre
+- [[canada-ca-en-health-canada-services-publications-healthy-liv-entity]]: Health Canada Air Pollution Report
+- [[canada-ca-en-innovation-science-economic-development-news-20-entity]]: Innovation, Science and Economic Development Canada (ISED)
+- [[canadas-data-center-regulatory-principles]]: Canada's Data Center Regulatory Principles
+- [[canadas-data-center-water-policies]]: canadas-data-center-water-policies
+- [[canadian-climate-institute]]: Canadian Climate Institute
+- [[canadian-moratorium-hyperscale-ai-data-centers]]: Canadian Moratorium on Hyperscale AI Data Centers
+- [[canadians-org-analysis-a-moratorium-on-ai-data-centres-entity]]: The Council of Canadians
+- [[cape-ca-resource-health-facts-gas-powered-data-centres-entity]]: Canadian Association of Physicians for the Environment Alberta Regional Committee
+- [[ccohs-ca-oshanswers-phys-agents-noise-non-auditory-html-entity]]: Canadian Centre for Occupational Health and Safety (CCOHS)
+- [[clearwatershelton-com-glycol-contamination-entity]]: Clearwater Shelton
+- [[clearwatershelton-com-propylene-glycol-safety-entity]]: ClearWater Industries
+- [[climatefast-ca-project-2025-12-say-no-ai-data-centres-entity]]: Innovation, Science and Economic Development Canada (ISED)
+- [[cnn-com-2026-03-30-climate-data-centers-are-having-an-underr-entity]]: University of Cambridge Earth Observation Group
+- [[consolidatedcontainment-com-blogs-containmentcorner-spill-co-entity]]: Consolidated Containment Corporation
+- [[ctvnews-ca-windsor-article-essex-county-council-to-debate-mu-entity]]: Essex County Council AI Data Centre Policy Initiative
+- [[damascuscitizensforsustainability-org-2026-08-23-low-frequen-entity]]: Damascus Citizens for Sustainability
+- [[data-centers-ai-data-centers-impact-on-electric-bills-water-and-more-a1040338678--entity]]: Data Centers Ai Data Centers Impact On Electric Bills Water And More A1040338678  Entity
+- [[datacenterally-com-blog-why-dba-is-not-the-whole-sound-story-entity]]: DataCenterally.com
+- [[datacenterknowledge-com-regulations-how-are-data-centers-tax-entity]]: Association of Municipalities of Ontario (AMO)
+- [[dec-vermont-gov-sites-dec-files-wmd-hazwaste-fact-sheets-pro-entity]]: Vermont Department of Environmental Conservation
+- [[ecology-wa-gov-air-climate-air-quality-data-centers-entity]]: Washington State Department of Ecology (Air Quality Regulation)
+- [[ehn-org-honeybee-emf-power-line-pollination-entity]]: Environmental Health News (EHN)
+- [[ehsciences-org-ai-data-center-health-impacts-entity]]: EH Science | ehsciences.org
+- [[elc-ab-ca-post-library-are-we-being-smart-about-ai-data-cent-entity]]: Environmental Law Centre (ELC) - Alberta
+- [[elchemy-com-blogs-chemical-market-ethylene-glycol-vs-propyle-entity]]: Elchemy Chemicals - Industrial Coolant Supplier
+- [[elexiconenergy-com-about-us-entity]]: Elexicon Energy - About Us Entity
+- [[en_US-solutions-applications-data-centers.html-entity]]: En_Us Solutions Applications Data Centers.Html Entity
+- [[environment-and-climate-change-canada]]: Department of Environment and Climate Change Canada
+- [[environment-yale-edu-news-article-data-centers-urban-heat-an-entity]]: Yale School of the Environment (YSE)
+- [[environmentalhealthproject-org-post-the-dangers-of-data-cent-entity]]: Environmental Health Project
+- [[ero-ontario-ca-notice-025-1001-entity]]: Ministry of Energy and Mines (MEM)
+- [[financialpost-com-technology-alberta-ai-data-centre-investme-entity]]: Synapse Data Centre
+- [[fondationdegaspebeaubien-org-en-water-and-ai-the-hidden-cons-entity]]: Fondation de Gaspe Beaubien
+- [[fox32chicago-com-news-illinois-data-center-boom-raises-quest-entity]]: Naaman Gambill - Chief Beekeeper, The Hive: Chicago's Beekeeping Supply Store
+- [[fred-meyer-distribution-center-entity]]: Fred Meyer Distribution Center
+- [[gascon-ca-en-definition-of-immovable-ramifications-for-data--entity]]: Gascon Law Firm - Data Centre Taxation Expertise
+- [[geocortex-essentials-entity]]: Geocortex Essentials
+- [[getinvolved-quintewest-ca-trenton-water-distribution-system--entity]]: Trenton Water Distribution System
+- [[gothamist-com-news-broken-valves-caused-a-data-center-to-spi-entity]]: Meadowlands Data Center Spill Incident
+- [[gov-mb-ca-nrnd-fish-wildlife-cdc-index-html-entity]]: Manitoba Conservation Data Centre (MBCDC)
+- [[gpsnauticalcharts-com-main-nautical-chart-cagps0usir17fy9pxc-entity]]: GPSNauticalCharts Organization
+- [[historicplaces-ca-en-rep-reg-place-lieu-aspx-id-10517-entity]]: Sidney Electric Power Company
+- [[hydratechfluids-com-us-technical-blog-propylene-glycol-59-entity]]: Hydratech Fluids Corporation
+- [[iaac-aeic-gc-ca-050-evaluations-proj-90123-contributions-id--entity]]: Beacon AI Centers Heartland Project
+- [[ieso-ca-en-learn-ontario-power-system-overview-of-the-grid-entity]]: Independent Electricity System Operator (IESO)
+- [[info-environmental-noise-control-com-resources-dba-vs-dbc-entity]]: Acoustical Consultants Inc.
+- [[insideclimatenews-org-news-12112025-data-center-diesel-gener-entity]]: InsideClimate News
+- [[ised-isde-canada-ca-site-ised-en-data-centres-powering-canad-entity]]: Government of Canada - Data Centre Policy Framework
+- [[laballey-com-blog-propylene-glycol-safety-hazards-entity]]: Laballey
+- [[lincolninst-edu-publications-land-lines-magazine-articles-la-entity]]: Lincoln Institute of Land Policy
+- [[linkedin-com-posts-ilse-hesselberth-8116477a-how-data-center-entity]]: Equinix Secaucus Data Center Spill Incident
+- [[linkedin-com-pulse-so-what-jobs-does-data-center-actually-pr-entity]]: LinkedIn Data Center Job Analysis
+- [[linkedin-com-pulse-what-data-centers-doing-bees-priyanka-meh-entity]]: Priyanka Mehta (LinkedIn Contributor)
+- [[loudoun-gov-6405-noise-air-quality-concerns-entity]]: Loudoun-Gov-6405-Noise-Air-Quality-Concerns-Entity
+- [[mihta-askiy-data-center]]: mihta-askiy-data-center
+- [[mltaikins-com-insights-ai-data-centres-in-canada-legal-and-r-entity]]: MLTAikins - AI Data Centre Legal Consulting
+- [[mpac-ca-sites-default-files-docs-pdf-standardindustrialprope-entity]]: Municipal Property Assessment Corporation (MPAC)
+- [[municipal-tax-incentives]]: municipal-tax-incentives
+- [[national-wildlife-federation-entity]]: National Wildlife Federation (NWF)
+- [[nationalmagazine-ca-en-ca-articles-in-depth-2025-data-s-dark-entity]]: eStruxture Data Centers
+- [[nationalobserver-com-2026-03-02-news-ontario-towns-cities-da-entity]]: Association of Municipalities of Ontario (AMO) Data Centre Policy Stance
+- [[nationalobserver-com-2026-08-20-news-ontario-data-centre-pla-entity]]: Association of Municipalities of Ontario (AMO)
+- [[ncbi-nlm-nih-gov-books-nbk598037-entity]]: National Center for Biotechnology Information (NCBI)
+- [[nesfircroft-com-resources-blog-data-centers-how-is-this-impa-entity]]: Independent Electricity System Operator (IESO)
+- [[noisemeters-ca-help-faq-frequency-weighting-entity]]: Noisemeters.ca
+- [[noiseproject-org-how-different-sound-levels-can-affect-you-entity]]: Noise Project
+- [[nwf-org-magazines-national-wildlife-2025-fall-conservation-a-entity]]: National Wildlife Federation
+- [[oe-clean-energy-resources-meet-data-center-electricity-demand-entity]]: Oe Clean Energy Resources Meet Data Center Electricity Demand Entity
+- [[ontario-ca-laws-statute-90a31-entity]]: Ontario e-Laws Platform
+- [[patch-com-new-jersey-secaucus-data-center-spills-5-500-gallo-entity]]: Equinix Secaucus Data Center
+- [[policyalternatives-ca-news-research-so-youre-getting-a-data--entity]]: Policy Alternatives Canada
+- [[publications-land-lines-magazine-articles-land-water-impacts-data-centers--entity]]: Publications Land Lines Magazine Articles Land Water Impacts Data Centers  Entity
+- [[quinte-west-data-center-entity]]: quinte-west-data-center-entity
+- [[quinte-west-data-center-proposals]]: Quinte West Data Center Proposals
+- [[quinteconservation-ca-entity]]: Quinte Conservation
+- [[quinteconservation-ca-media-qzmk2ljb-quinte-conservation-wat-entity]]: Quinte Conservation
+- [[quinteconservation-ca-outdoor-spaces-areas-entity]]: Quinte Conservation Outdoor Spaces and Areas Entity
+- [[quinteconservation-ca-watershed-management-dams-entity]]: Quinte Conservation
+- [[quinteconservation-ca-who-we-are-resources-protecting-drinki-entity]]: Quinte Conservation Authority
+- [[quintenews-com-2022-01-25-power-outages-what-happened-entity]]: Elexicon Energy - Substation Operations
+- [[quintenews-com-2026-06-09-maintaining-ecological-integrity-a-entity]]: Sandbanks Provincial Park
+- [[quintewest-ca-water-environment-water-sewer-faq-entity]]: Quinte West Water Sewer FAQ Entity
+- [[resources-esri-ca-assessment-what-is-the-impact-of-data-cent-entity]]: ESRI Inc.
+- [[scribd-com-document-739354981-ozz-solar-development-inc-tech-entity]]: OZZ Solar Development Inc.
+- [[sites-stpp-files-2025-07-stpp-data-centers-2025.pdf-entity]]: Sites Stpp Files 2025 07 Stpp Data Centers 2025.Pdf Entity
+- [[sounddbmeter-com-dba-vs-dbc-entity]]: Acoustical Consultants Inc.
+- [[southeasternontario-ca-itineraries-bay-of-quinte-west-entity]]: Southeastern Ontario Tourism Entity
+- [[spills-action-centre-entity]]: Spills Action Centre
+- [[static1-squarespace-com-static-59af5a537131a5b42451a91d-t-6a-entity]]: Data Center Noise Guidelines Document
+- [[sustainabilitymatters-net-au-content-sustainability-news-ai--entity]]: Centre for AI, Trust and Governance, The University of Sydney
+- [[taxfoundation-org-research-all-state-data-centers-taxation-entity]]: Tax Foundation
+- [[theanimalreader-com-2026-07-10-how-ai-data-centers-are-affec-entity]]: The Animal Reader
+- [[thebeesknees-website-bees-data-entity]]: The Bees Knees Website
+- [[theglobeandmail-com-business-commentary-article-canada-ai-da-entity]]: Data Centres: Sharing the Load Report
+- [[theglobeandmail-com-investing-markets-stocks-gev-pressreleas-entity]]: GE Vernova and Eaton in AI Data Center Power Infrastructure
+- [[theguardian-com-environment-2026-oct-01-us-datacenter-new-je-entity]]: DataOne Inc.
+- [[thenoisechap-com-noise-safety-information-dba-and-dbc-data-i-entity]]: The Noise Chap
+- [[thestute-com-2026-10-02-thousands-of-gallons-of-diesel-spill-entity]]: Equinix Data Center Incident
+- [[timesofindia-indiatimes-com-science-are-data-centres-harming-entity]]: Environmental Health Sciences (EHS) Review on EMFs and Bees
+- [[town-of-olds-entity]]: Town of Olds, Alberta
+- [[union-of-bc-municipalities-entity]]: Union of BC Municipalities (UBCM)
+- [[wellandtribune-ca-news-canada-bc-s-local-governments-call-fo-entity]]: Union of BC Municipalities (UBCM)
+- [[wri]]: WRI
+- [[www2-gov-bc-ca-gov-content-environment-air-land-water-spills-entity]]: British Columbia Ministry of Environment and Climate Change Strategy
+
+## Regional Comparisons
+- [[pollution-noise-and-health-comparison]]: Pollution Noise And Health Comparison
+- [[power-and-water-strain-comparison]]: Power And Water Strain Comparison
+- [[provincial-grid-and-water-regulatory-frameworks]]: Provincial Grid and Water Regulatory Frameworks
+
+## Saved Queries & Paper Drafts
+- [[queries/research_gaps]]: Targeted research gaps checklist for the 9-part paper outline.
+2609.16316v1: Navigating the Delicate Geometry of Beehive Mite Infestation with Optimal Control
+
+
+## Comparisons
+- [[cambridge-vs-secaucus-spill-analysis]]: Comparative Failure Mode Analysis: Cambridge TOR1 vs. Secaucus Equinix NY2
+
+- [[concepts/trent-river-drinking-water-intakes-and-ipz.md]]: Trent River Drinking Water Intakes and IPZ-1/IPZ-2/IPZ-3 Vulnerability Mapping
+- [[entities/lower-trent-conservation.md]]: Lower Trent Conservation Jurisdiction and Source Protection Authority Mandate

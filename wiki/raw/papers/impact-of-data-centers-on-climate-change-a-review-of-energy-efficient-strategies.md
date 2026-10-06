@@ -1,0 +1,140 @@
+# [Source: Impact of Data Centers on Climate Change A Review of Energy Efficient Strategies.pdf]
+
+## Page 1
+
+The Journal of Engineering and Exact Sciences – jCEC, Vol. 09 N. 06 (2023) 
+journal homepage: https://periodicos.ufv.br/jcec 
+eISSN: 2527-1075 
+ISSN: 2446-9416 
+1 
+Article Info: 
+Article history: Received 2023-08-03 / Accepted 2023-08-20 / Available online 2023-08-17 
+doi:  10.18540/jcecvl9iss6pp16397-01e 
+ 
+Daniel Raphael Ejike Ewim 
+ORCID: https://orcid.org/0000-0002-7229-8980 
+ Department of Mechanical Engineering, Durban University of Technology, South Africa 
+Email: daniel.ewim@yahoo.com 
+Nwakamma Ninduwezuor-Ehiobu 
+ORCID: https://orcid.org/0009-0000-1735-5199 
+ FieldCore Canada, Part of GE Vernova 
+E-mail: nwakamma@ge.com   
+Ochuko Felix Orikpete 
+ORCID: https://orcid.org/0000-0001-8020-2195 
+E
+orikpeteochuko@gmail.com  
+Blessed Afeyokalo Egbokhaebho 
+ORCID: https://orcid.org/0009-0001-8598-1260 
+        Independent Researcher, UK 
+      Email: blessedeg@gmail.com 
+Akeeb Adepoju Fawole 
+ORCID: https://orcid.org/0009-0000-2503-2912 
+Eko City College of Management and Technology, Nigeria 
+Email: keebfawii@yahoo.com  
+Chiemela Onunka 
+ORCID: https://orcid.org/0000-0002-5707-9368  
+Amazon Web Services, USA 
+E-mail: connadoz@gmail.com
+
+---
+
+## Page 2
+
+The Journal of Engineering and Exact Sciences – jCEC 
+2
+
+---
+
+## Page 3
+
+The Journal of Engineering and Exact Sciences – jCEC 
+3
+
+---
+
+## Page 4
+
+The Journal of Engineering and Exact Sciences – jCEC 
+4
+
+---
+
+## Page 5
+
+The Journal of Engineering and Exact Sciences – jCEC 
+5
+
+---
+
+## Page 6
+
+The Journal of Engineering and Exact Sciences – jCEC 
+6
+
+---
+
+## Page 7
+
+The Journal of Engineering and Exact Sciences – jCEC 
+7
+
+---
+
+## Page 8
+
+The Journal of Engineering and Exact Sciences – jCEC 
+8
+
+---
+
+## Page 9
+
+The Journal of Engineering and Exact Sciences – jCEC 
+9
+
+---
+
+## Page 10
+
+The Journal of Engineering and Exact Sciences – jCEC 
+10
+
+---
+
+## Page 11
+
+The Journal of Engineering and Exact Sciences – jCEC 
+11
+
+---
+
+## Page 12
+
+The Journal of Engineering and Exact Sciences – jCEC 
+12 
+Ferrari, D., Cacciapuoti, A. S., Amoretti, M., & Caleffi, M. (2021).
+
+---
+
+## Page 13
+
+The Journal of Engineering and Exact Sciences – jCEC 
+13
+
+---
+
+## Page 14
+
+The Journal of Engineering and Exact Sciences – jCEC 
+14 
+Digital Infra 
+Network. 
+https://digitalinfranetwork.com/addressing-the-carbon-footprint-of-data-centre-backup-
+power/
+
+---
+
+## Page 15
+
+The Journal of Engineering and Exact Sciences – jCEC 
+15
